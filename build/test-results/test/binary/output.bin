@@ -1,0 +1,12 @@
+ä2017-02-28 13:50:34,440  INFO --- AddOnRegistryServiceLoader     : Add-on folder: /Users/jens/NetBeansProjects/addon-commons-demo/./addon
+X2017-02-28 13:50:34,445  INFO --- AddOnRegistryServiceLoader     : Found 0 add-on jars.
+ú2017-02-28 13:50:34,447  INFO --- AddOnRegistryServiceLoader     : Found add-on of type de.jensd.addon.demo.converter.StringConverter at: DarkSideConverter
+ù2017-02-28 13:50:34,448  INFO --- AddOnRegistryServiceLoader     : Found add-on of type de.jensd.addon.demo.converter.StringConverter at: LightSideConverter
+ò2017-02-28 13:50:34,449  INFO --- AddOnRegistryServiceLoader     : Found add-on of type de.jensd.addon.demo.converter.StringConverter at: CastConverter
+ó2017-02-28 13:50:34,459  INFO --- AddOnRegistryServiceLoader     : Add-on folder: /Users/jens/NetBeansProjects/extensions-commons/build/resources/test
+X2017-02-28 13:50:34,460  INFO --- AddOnRegistryServiceLoader     : Found 0 add-on jars.
+ó2017-02-28 13:50:34,460  INFO --- AddOnRegistryServiceLoader     : Add-on folder: /Users/jens/NetBeansProjects/extensions-commons/build/resources/test
+X2017-02-28 13:50:34,461  INFO --- AddOnRegistryServiceLoader     : Found 0 add-on jars.
+ú2017-02-28 13:50:34,461  INFO --- AddOnRegistryServiceLoader     : Found add-on of type de.jensd.addon.demo.converter.StringConverter at: DarkSideConverter
+ù2017-02-28 13:50:34,462  INFO --- AddOnRegistryServiceLoader     : Found add-on of type de.jensd.addon.demo.converter.StringConverter at: LightSideConverter
+ò2017-02-28 13:50:34,462  INFO --- AddOnRegistryServiceLoader     : Found add-on of type de.jensd.addon.demo.converter.StringConverter at: CastConverter
