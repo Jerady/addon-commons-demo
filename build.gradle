@@ -1,16 +1,23 @@
 apply plugin: 'java'
 apply plugin: 'maven-publish'
 
+buildscript {
+    repositories {
+        jcenter()
+    }
+}
+
+repositories {
+    mavenCentral()
+    mavenLocal()
+    jcenter()
+}
 
 group = 'de.jensd'
 version '0.0.5'
 sourceCompatibility = '1.8'
 [compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
 
-repositories {
-    mavenCentral()
-    mavenLocal()
-}
 
 task javadocJar(type: Jar) {
     classifier = 'javadoc'
@@ -45,5 +52,5 @@ dependencies {
 }
 
 task wrapper(type: Wrapper) {
-    gradleVersion = '3.3'
+    gradleVersion = '3.4'
 }
