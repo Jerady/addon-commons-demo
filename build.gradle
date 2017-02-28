@@ -14,10 +14,9 @@ repositories {
 }
 
 group = 'de.jensd'
-version '0.0.5'
+version '0.0.5.addon'
 sourceCompatibility = '1.8'
 [compileJava, compileTestJava]*.options*.encoding = 'UTF-8'
-
 
 task javadocJar(type: Jar) {
     classifier = 'javadoc'
