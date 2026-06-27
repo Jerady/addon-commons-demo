@@ -23,7 +23,7 @@ Run a single test method:
 ./gradlew test --tests "de.jensd.addon.AddonRegistryTest.testConverter"
 ```
 
-Dependencies come from Maven Central / mavenLocal; the core one is `de.jensd:addon-commons` (currently 1.1.0). `AddOn`, `AddOnRegistryServiceLoader`, and the lookup-path property live in that library, **not** in this repo.
+Dependencies come from Maven Central / mavenLocal; the core one is `de.jensd:addon-commons` (currently 16.0.0). `AddOn`, `AddOnRegistryServiceLoader`, and the lookup-path property live in that library, **not** in this repo.
 
 ## Architecture
 
